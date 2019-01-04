@@ -101,8 +101,8 @@ img, video, audio {
   display:
   clear:
   visibility:
-  
-  ;
+  height:
+  line-height:
 }
 
 [class*= "col-"] {
