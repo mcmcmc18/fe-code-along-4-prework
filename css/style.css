@@ -98,7 +98,7 @@ img, video, audio {
 
 .clearfix: after {
   content: ".";
-  display:
+  display: block;
   clear:
   visibility:
   height:
