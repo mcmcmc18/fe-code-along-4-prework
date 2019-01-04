@@ -101,7 +101,7 @@ img, video, audio {
   display: block;
   clear: both;
   visibility: hidden;
-  height:
+  height: 0;
   line-height:
 }
 
