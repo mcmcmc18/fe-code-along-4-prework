@@ -100,7 +100,7 @@ img, video, audio {
   content: ".";
   display: block;
   clear: both;
-  visibility:
+  visibility: hidden;
   height:
   line-height:
 }
