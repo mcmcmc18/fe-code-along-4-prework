@@ -97,7 +97,10 @@ img, video, audio {
 }
 
 .clearfix: after {
-  
+  content:
+  display:
+  clear:
+  ;
 }
 
 [class*= "col-"] {
