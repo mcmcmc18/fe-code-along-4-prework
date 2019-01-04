@@ -71,7 +71,9 @@ figcaption {
   color: red;
 }
 
-img, media, 
+img, video, audio {
+  
+}
 
 
 .wrapper {
