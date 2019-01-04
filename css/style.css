@@ -96,7 +96,9 @@ img, video, audio {
   background-color: #ccc;
 }
 
-.clearfix
+.clearfix: after {
+  
+}
 
 [class*= "col-"] {
   margin-left: 2%;
