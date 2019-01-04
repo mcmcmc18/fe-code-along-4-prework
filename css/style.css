@@ -92,5 +92,10 @@ figcaption {
 }
 
 [class*= "col-"] {
-  margin-left: 2;
+  margin-left: 2%;
+}
+
+.first{
+  margin-left: 0%;
+}
 }
