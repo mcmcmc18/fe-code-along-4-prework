@@ -99,7 +99,7 @@ img, video, audio {
 .clearfix: after {
   content: ".";
   display: block;
-  clear:
+  clear: both;
   visibility:
   height:
   line-height:
